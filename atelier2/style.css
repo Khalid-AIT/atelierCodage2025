@@ -1,0 +1,33 @@
+#mdiv{
+  width:80vw;
+  height:80vw;
+  margin:auto;
+  margin-top:2rem;
+  padding: 1rem;
+  background-color: aliceblue;
+  position:relative;
+}
+
+#code{
+  background-color: black;
+}
+
+.spy{
+  stroke:#009933;
+  display:inline;
+}
+
+path{
+  display:none;
+}
+
+#secret{
+  position:absolute;
+  bottom:1rem;
+  left:80%;
+}
+
+.prime{
+  fill:#F0F8FF;
+  stroke:#F0F8FF;
+}
